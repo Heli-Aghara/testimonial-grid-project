@@ -23,7 +23,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
    1. Mobile Version:
         ![Mobile version](/solutions/Mobile-version.png "Mobile Version")
    2. Tablet Version(Medium-size devices):
-        ![Tablet Version](solutions/Tablet%20version.png)
+        ![Tablet Version](solutions/Tablet%20version.PNG)
    3. Desktop version(large screen sizes):
         ![Desktop Version](solutions/desktop%20version.png )
 
