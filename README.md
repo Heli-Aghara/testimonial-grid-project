@@ -33,7 +33,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - Because I wanted to practice my Grid skills.
   - I mean, I know grid properties like `grid-template-columns` and `grid-template-areas`, but In order utilize all this properties, you have to practice it in real-life cases.
   - And, I wamted to practice responsive design. this project gave me chance to practice `@media` queries.(although, I don't know much about media queries still haha😅 ).
-- I am also getting better at writing clean and commented code by doing this project. 
+- I am also getting better at writing clean and commented code by doing projects. 
 
 ## How did I do this project?
 
